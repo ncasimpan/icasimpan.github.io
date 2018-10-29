@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on icasimpan</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Feb 2009 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache</title>
+      <link>/tags/apache/</link>
+      <pubDate>Fri, 13 Feb 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>/tags/bash/</link>
+      <pubDate>Mon, 18 Aug 2014 18:34:01 +0800</pubDate>
+      
+      <guid>/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ibm</title>
+      <link>/tags/ibm/</link>
+      <pubDate>Mon, 29 Oct 2018 17:08:13 +0800</pubDate>
+      
+      <guid>/tags/ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mail</title>
+      <link>/tags/mail/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mailserver</title>
+      <link>/tags/mailserver/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/mailserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mergers</title>
+      <link>/tags/mergers/</link>
+      <pubDate>Mon, 29 Oct 2018 17:08:13 +0800</pubDate>
+      
+      <guid>/tags/mergers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>/tags/open-source/</link>
+      <pubDate>Mon, 29 Oct 2018 17:08:13 +0800</pubDate>
+      
+      <guid>/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/tags/projects/</link>
+      <pubDate>Sun, 14 Oct 2018 21:32:00 +0800</pubDate>
+      
+      <guid>/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redhat</title>
+      <link>/tags/redhat/</link>
+      <pubDate>Mon, 29 Oct 2018 17:08:13 +0800</pubDate>
+      
+      <guid>/tags/redhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>/tags/redirect/</link>
+      <pubDate>Fri, 13 Feb 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/redirect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>/tags/shell/</link>
+      <pubDate>Mon, 18 Aug 2014 18:34:01 +0800</pubDate>
+      
+      <guid>/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>/tags/tools/</link>
+      <pubDate>Mon, 18 Aug 2014 18:34:01 +0800</pubDate>
+      
+      <guid>/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Fri, 13 Feb 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webserver</title>
+      <link>/tags/webserver/</link>
+      <pubDate>Fri, 13 Feb 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/tags/webserver/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
